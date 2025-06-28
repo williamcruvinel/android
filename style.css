@@ -204,3 +204,8 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
+
+span {
+    color: var(--cor1);
+    font-weight: bold;
+}
